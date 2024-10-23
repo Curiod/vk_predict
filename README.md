@@ -12,8 +12,9 @@ Project Organization
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment
     ├── preprocess.py           <- feature generating functions
     ├── generate_submission.py    <- Generates 'submission.csv' file.
-    
     ├── submission.csv <- test.parquet classification results
 
 
 --------
+Получить результаты классификации можно, запустив "generate_submission.py" или "submission.ipynb".
+Обоснование выбранных признаков и модели указано в "EDA_n_models.ipynb".
